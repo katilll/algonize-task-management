@@ -1,8 +1,0 @@
-{
-  "name": "algonive-task-manager",
-  "version": "1.0.0",
-  "description": "Animated Task Manager Web Application for Algonive Internship",
-  "main": "index.html",
-  "author": "Intern",
-  "license": "MIT"
-}
